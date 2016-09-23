@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_72c059c645f25efaa5652ad1b2ff0e2d5258afc1/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8c677b802ae2d3f7819965d72bdb36c39f1c89f1/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_91314dd124218b2aecb3262a0f94de2a2ffb9d95/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_7efa09dc9ccf065ba2a5d96fbc4c1479a8ef98d0/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f2ec4073ae2894d224b18c1ed5b6aa2224bef966/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_70b60d0d523d24c253f512f3bd8c9db41930e73d/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_6abc436ab147fe2f950a2e253deb1b9f88ff159c/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_bb73f9e55abb7afc7bff46cb8a7a11c1c41ed0d3/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_4e8ebff8e56106669368f245a72a96879e5ce3ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_b92f77dc79fd9fcb3eccc3128e9c3b00bfac1e32/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_21bfbb1a2231ffea1605eec493a5024f4b3ece68/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_73f8e2b88b067c119aa56da82202008c11981634/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c2b6397a6adb2b3c3411c07a79786100c636ba52/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="eb728c8c8b138be1dad14de80f0412a54ec8a9e0">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_045ce06353503af915b5a250cb23c0b6e68dc0d8/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_81fccfbb7cc5d8fb1c914893a9958afb7160956c/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_234f6ea2cc228a3e006e2e4cea07dbf597d9df8e/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="74386a7b29f89a5fbe43d0b97482217f21d58f30">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9ff78f579870bb6a9bf23085310be8a066b39b4a/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_273b57b18fb4c018aa658e2535c0ce0a62344d50/classes.dex" />
+    </item>
+    <item
+        jar="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/hashirsheik/Documents/Test/Testjenkins/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_81366ae3f22f4a709dc049f24d7df635fa1e9028/classes.dex" />
+    </item>
+
+</items>
