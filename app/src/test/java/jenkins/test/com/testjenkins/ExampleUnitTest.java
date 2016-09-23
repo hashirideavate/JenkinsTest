@@ -31,8 +31,4 @@ public class ExampleUnitTest {
         assertNotSame("Test", "test");
     }
 
-    @Test
-    public void FailCase() throws Exception {
-        assertSame("Test", "test");
-    }
 }
