@@ -31,4 +31,9 @@ public class ExampleUnitTest {
         assertNotSame("Test", "test");
     }
 
+    @Test
+    public void check_testCase() throws Exception {
+        assertNotSame("Test", "test");
+    }
+
 }
